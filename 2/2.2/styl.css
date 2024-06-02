@@ -1,0 +1,22 @@
+#body{
+    text-transform: uppercase;
+}
+
+#header, #footer{		
+    height: 60px;
+}
+
+#text{
+    size: 26px;
+    color: #0f0f0f;
+    
+    background-color:#cecece;
+    }
+
+#color{ 
+        text-decoration: none;
+    }
+
+#color:hover{
+        color: #ff0000;
+    }

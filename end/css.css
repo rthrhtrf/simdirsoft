@@ -1,0 +1,231 @@
+.a{
+    background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:600px;
+	position:absolute;
+}
+.b{
+    margin: 100px 50px; 
+    margin-right: 800px;
+}
+.btn{
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 15px;
+    text-align: center;
+    color: #fff;
+    border-radius: 10px;
+    background-color: blue;
+}
+.text{
+    font-family: Inter;
+    text-align: center;
+    
+
+}
+.image{
+    box-shadow:0px 0px 8px rgba(59, 130, 246, 1);
+	background-color:rgba(255, 255, 255, 1);
+	width:167px;
+	height:104px;
+	position:absolute;
+	left:750px;
+	top:400px;
+	border-top-left-radius:8px;
+	border-top-right-radius:8px;
+	border-bottom-left-radius:8px;
+	border-bottom-right-radius:8px;
+}
+.img{
+	width:140px;
+	height:40px;
+	position:absolute;
+	left:10px;
+	top:10px;
+}
+.i1{
+    box-shadow:-1px 0px 2px rgba(0, 0, 0, 1);
+	border-radius:500px;
+	width:40px;
+	height:40px;
+	position:absolute;
+	left:0px;
+	top:0px;
+    background-image: url(images/i1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.i2{
+    box-shadow:-1px 0px 2px rgba(0, 0, 0, 1);
+	border-radius:500px;
+	width:40px;
+	height:40px;
+	position:absolute;
+	left:27px;
+	top:0px;
+    background-image: url(images/i2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.i3{
+    box-shadow:-1px 0px 2px rgba(0, 0, 0, 1);
+	border-radius:500px;
+	width:40px;
+	height:40px;
+	position:absolute;
+	left:54px;
+	top:0px;
+    background-image: url(images/i3.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.i4{
+    box-shadow:-1px 0px 2px rgba(0, 0, 0, 1);
+	border-radius:500px;
+	width:40px;
+	height:40px;
+	position:absolute;
+	left:81px;
+	top:0px;
+    background-image: url(images/i4.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.i5{
+    box-shadow:-1px 0px 2px rgba(0, 0, 0, 1);
+	border-radius:500px;
+	width:40px;
+	height:40px;
+	position:absolute;
+	left:108px;
+	top:0px;
+    background-image: url(images/i5.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.texti{
+    color:rgba(15, 23, 42, 1);
+	width:143px;
+	height:30px;
+	position:absolute;
+	left:12px;
+	top:62px;
+	font-family:Inter;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.texti1{
+    color:rgba(15, 23, 42, 1);
+	width:140px;
+	height:30px;
+	position:absolute;
+	left:60px;
+	top:20px;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.texti2{
+    color:rgba(15, 23, 42, 1);
+	width:140px;
+	height:30px;
+	position:absolute;
+	left:60px;
+	top:30px;
+    text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.texti3{
+    color:rgba(15, 23, 42, 1);
+	width:140px;
+	height:30px;
+	position:absolute;
+	left:60px;
+	top:30px;
+    text-align:left;
+	font-size:22px;
+	letter-spacing:0;
+}
+.infoimage{
+    width:40px;
+	height:40px;
+	position:absolute;
+	left:0px;
+	top:5px;
+    background-image: url(images/infoimage.png);
+    background-size:cover;
+}
+.info1{    
+    box-shadow:0px 0px 8px rgba(59, 130, 246, 1);
+	background-color:rgba(255, 255, 255, 1);
+	width:180px;
+	height:90px;
+	position:absolute;
+	left:650px;
+	top: 130px;;
+	border-top-left-radius:8px;
+	border-top-right-radius:8px;
+	border-bottom-left-radius:8px;
+	border-bottom-right-radius:8px;
+}
+.kv{
+    position:absolute;
+    width: 350px;
+    height: 350px;
+    background-color: darkcyan;
+    border-radius: 50px;
+    left: 800px;
+    top: 100px;
+}
+.womn{
+    width:400px;
+	height:400px;
+	position:absolute;
+	left:0px;
+	top:-45px;
+    background-image: url(images/womn.png);
+	background-size:cover;
+}
+.o{
+    box-shadow:0px 0px 8px rgba(59, 130, 246, 1);
+	background-color:rgba(255, 255, 255, 1);
+	width:180px;
+	height:120px;
+	position:absolute;
+	right: 220px;
+	top: 15px;;
+	border-top-left-radius:8px;
+	border-top-right-radius:8px;
+	border-bottom-left-radius:8px;
+	border-bottom-right-radius:8px;
+}
+.elipse1{
+    width: 100px;
+    height: 50px;
+    position:absolute;
+    left: 30px;
+    top: 5px;
+    border-radius: 100px 100px 0 0;
+    border-top: 5px solid blue;
+    border-left: 5px solid blue;
+    border-right: 5px solid aquamarine;
+}
+.proc{
+    position:absolute;
+    top: 20px;
+    left: 70px;
+}
+.texti4{
+    color:rgba(15, 23, 42, 1);
+	width:150px;
+	height:30px;
+	position:absolute;
+	left:10px;
+	top:65px;
+    text-align:center;
+	font-size:19px;
+	letter-spacing:0;
+}
